@@ -1,4 +1,4 @@
-package github.com/ArayomiRagiko/sum
+package github.com/ArayomiRagiko/ArayomiSum
 
 func Add(a, b int) int {
 	return a + b
